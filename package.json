@@ -5,8 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
-    "dev-twitter": "nodemon twitter.js",
-    "dev-points": "nodemon points.js"
+    "points": "nodemon points.js"
   },
   "repository": {
     "type": "git",
